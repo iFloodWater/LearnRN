@@ -12,7 +12,7 @@ export default class demo extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-            Welcome to React Native android!
+            Welcome to React Native android!!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
